@@ -1,2 +1,6 @@
-/backup
-/sessions
+backup
+sessions
+
+bundle/*
+!bundle/vundle/
+!bundle/kjellski/jellybeans
