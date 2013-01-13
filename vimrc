@@ -39,7 +39,7 @@ Bundle 'mutewinter/vim-indent-guides'
 Bundle 'Lokaltog/vim-powerline'
 Bundle 'scrooloose/nerdtree'
 Bundle 'Rykka/colorv.vim'
-Bundle 'nanotech/jellybeans.vim'
+Bundle 'kjellski/jellybeans.vim'
 Bundle 'tomtom/quickfixsigns_vim'
 " Commands
 Bundle 'scrooloose/nerdcommenter'
